@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "CloudBased-WebApp",
+    "slug": "CloudBased-WebApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
